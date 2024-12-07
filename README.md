@@ -2,7 +2,7 @@
 
 Este proyecto utiliza Flutter para el frontend, Python Flask para el backend, y MySQL como base de datos.
 Requisitos Previos
-**Frontend (Flutter)**
+1. **Frontend (Flutter)**
 1.	Flutter SDK:
 o	Descarga desde Flutter.dev.
 o	Sigue las instrucciones de instalación para tu sistema operativo.
@@ -20,7 +20,7 @@ o	Abre una terminal y ejecuta:
 flutter doctor
 o	Asegúrate de que todas las secciones estén marcadas como [✓].
 
-**Backend (Python Flask)**
+2. **Backend (Python Flask)**
 1.	Python:
 o	Instala Python 3.8 o superior desde python.org.
 o	Asegúrate de agregar Python a tu variable de entorno PATH.
@@ -39,7 +39,7 @@ o	Instala MySQL desde MySQL.com.
 o	Crea una base de datos según la configuración del backend.
 o	Asegúrate de que las credenciales de acceso estén configuradas correctamente en config.py.
 
-**Configuración del Proyecto**
+3. **Configuración del Proyecto**
 **1. Backend**
 1.	Navega a la carpeta del proyecto backend:
 cd backend
